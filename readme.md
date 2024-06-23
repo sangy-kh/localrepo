@@ -2,6 +2,3 @@
 
 this is new branch feature
 
-
-
-git add .
